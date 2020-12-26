@@ -1,0 +1,4 @@
+/dwebsite/db.sqlite3
+/dwebsite/dwebsite/__pycache__
+/dwebsite/blog/__pycache__
+/dwebsite/blog/migrations
